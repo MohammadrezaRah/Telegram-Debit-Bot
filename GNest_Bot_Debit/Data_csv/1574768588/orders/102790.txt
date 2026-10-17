@@ -1,0 +1,19 @@
+{
+    "full_name": "Admin GameNest",
+    "username": "Game_Nest_Admin",
+    "user_id": 1574768588,
+    "chat_id": 1574768588,
+    "order_id": 102790,
+    "product_id": 177007655,
+    "product_title": "اکانت قانونی ظرفیت سوم پلی استیشن پلاس اکسترا 12 ماهه",
+    "price": 4900000,
+    "prepaid": 1634000,
+    "fee": 99000.0,
+    "total_payment": 1733000,
+    "wallet_balance": 0,
+    "new_wallet_balance": 0,
+    "first_payment": 1733000,
+    "unit": 2,
+    "every_debt": 1633000,
+    "installment_dates": "💳 قسط 1: 1405/08/19:پرداخت نشده\n💳 قسط 2: 1405/09/19:پرداخت نشده\n"
+}

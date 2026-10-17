@@ -1,0 +1,19 @@
+{
+    "full_name": "Admin GameNest",
+    "username": "Game_Nest_Admin",
+    "user_id": 1574768588,
+    "chat_id": 1574768588,
+    "order_id": 102787,
+    "product_id": 176466479,
+    "product_title": "اکانت قانونی ظرفیت دوم پلی استیشن پلاس پرمیوم 12 ماهه PS5",
+    "price": 17800000,
+    "prepaid": 5934000,
+    "fee": 357000.0,
+    "total_payment": 6291000,
+    "wallet_balance": 0,
+    "new_wallet_balance": 0,
+    "first_payment": 6291000,
+    "unit": 3,
+    "every_debt": 3955333,
+    "installment_dates": "💳 قسط 1: 1405/08/19:پرداخت نشده\n💳 قسط 2: 1405/09/19:پرداخت نشده\n💳 قسط 3: 1405/10/19:پرداخت نشده\n"
+}

@@ -1,0 +1,6 @@
+pandas
+jdatetime
+aiogram
+dotenv
+playwrite
+chromonuim
